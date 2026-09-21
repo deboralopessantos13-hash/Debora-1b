@@ -5,7 +5,7 @@ header {
        background-color: #183c63;
        color: #FFFFFF;
        text-align: center;
-       maz-width: 800px;
+       max-width: 800px;
        margin: 0 auto;
        border: 5px solid #cf1010;
         padding: 16px    
@@ -23,7 +23,7 @@ header {
      }
     img {
         width: 80px;
-        heigth: 80px;
+        height: 80px;
     }
              .artigo-autor {
                  font-weigth: bold;
