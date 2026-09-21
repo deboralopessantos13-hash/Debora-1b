@@ -15,6 +15,11 @@ header {
         color: #183c63;
         margin: 0 auto;
            padding: 16px;
+           display: flex;
+           border: 1px solid #183C63:
+           marigin: 16px;
+           gap: 16px;
+           padding: 16px;
     }
      article{
          display: flex;
