@@ -12,3 +12,4 @@
             texto.textContent++;
         })
         }
+const btnTemaEscuro = document.querySelector(".btn-tema-escuro");
